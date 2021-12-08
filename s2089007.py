@@ -1,1 +1,1 @@
-print("Hello, My name is 김다 and Student ID is 2089007")
+print("Hello, My name is 김다영 and Student ID is 2089007")
